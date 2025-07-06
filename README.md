@@ -24,16 +24,16 @@ Este projeto consiste na criação de um player de vídeo funcional, utilizando 
 
 ## 🧩 Estrutura de Arquivos
 
-my-app/
-├── public/
-│ ├── video.mp4 # Vídeo exibido no player
-├── src/
-│ └── app/
-│ ├── page.tsx # Página principal com o player
-│ ├── layout.tsx
-│ └── globals.css
-├── package.json
-└── README.md # Você está aqui
+## my-app/
+    ├── public/
+    │ ├── video.mp4 # Vídeo exibido no player
+    ├── src/
+    │ └── app/
+    │ ├── page.tsx # Página principal com o player
+    │ ├── layout.tsx
+    │ └── globals.css
+    ├── package.json
+    └── README.md # Você está aqui
 
 ---
 
@@ -41,7 +41,7 @@ my-app/
 
 1. Clone ou baixe o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/gustav0lb/animacao.git
    cd seu-repo
 
     Instale as dependências:
@@ -54,5 +54,4 @@ my-app/
 
 3. Acesse no navegador:
 
-    http://localhost:3000# animacao git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/gustav0lb/animacao.git git push -u origin main
-# animacao
+    http://localhost:3000
