@@ -54,4 +54,5 @@ my-app/
 
 3. Acesse no navegador:
 
-    http://localhost:3000
+    http://localhost:3000# animacao git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/gustav0lb/animacao.git git push -u origin main
+# animacao
